@@ -1,7 +1,7 @@
 ![header](<https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&width=500&section=header&text=Myeongjin Yang&fontSize=90>)
 <!-- ![Myeongjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=audwls624&count_private=true) -->
 <br>
-<p align='center' font-size=30>
+<p align='center'>
 🧑🏻‍💻 backend Developer
 </p>
 
