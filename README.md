@@ -2,7 +2,7 @@
 <!-- ![Myeongjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=audwls624&count_private=true) -->
 <br>
 <p align='center'>
-🧑🏻‍💻 backend Developer
+🧑🏻‍💻 Backend Developer
 </p>
 
 <br>
