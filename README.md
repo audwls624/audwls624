@@ -18,9 +18,6 @@
 <hr>
 <br>
 <p align='center'>
-  <a href="https://velog.io/@adsf25">
-    <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/>
-  </a>
   <a href="mailto:audwls624@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
